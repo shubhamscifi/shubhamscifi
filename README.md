@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am Shubham Agrawal.
+- I am a Data Scientist, Problem Solver and a Consistent Learner with a curious mind.
+- 🔭 I’m currently working on updating my weights & biases.
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/me-shubham-agrawal"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="18" height="18" /></a>
+- 🌱 I’m currently learning to teach machines how to learn. Confused :)... It's Machine Learning.
+Updating my weights & biases at each epoch.
+
+![](https://github-readme-stats.vercel.app/api?username=shubhamscifi&&show_icons=true&theme=radical)
